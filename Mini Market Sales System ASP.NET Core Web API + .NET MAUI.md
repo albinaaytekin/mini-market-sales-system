@@ -63,6 +63,7 @@ Users can browse different product categories.
 
 <p align="center">
   <img src="screenshots/loginorregisterpage.jpg" width="250"/>
+  <img src="screenshots/registerpage.jpg" width="250"/>
 </p>
 
 Users must log in before selecting an address or placing an order.
@@ -73,6 +74,7 @@ Users must log in before selecting an address or placing an order.
 
 <p align="center">
   <img src="screenshots/searchpage.jpg" width="250"/>
+   <img src="screenshots/searchpage2.jpg" width="250"/>
 </p>
 
 Users can search for products quickly using the search functionality.
@@ -83,6 +85,7 @@ Users can search for products quickly using the search functionality.
 
 <p align="center">
   <img src="screenshots/cartpage.jpg" width="250"/>
+   <img src="screenshots/cartpage2.jpg" width="250"/>
 </p>
 
 Products can be added or removed from the cart.
@@ -113,6 +116,7 @@ Users can select their location using the map.
 
 <p align="center">
   <img src="screenshots/orderpage.jpg" width="250"/>
+   <img src="screenshots/orderdetailpage.jpg" width="250"/>
 </p>
 
 Users can review and create orders.
@@ -123,6 +127,7 @@ Users can review and create orders.
 
 <p align="center">
   <img src="screenshots/paymentpage.jpg" width="250"/>
+   <img src="screenshots/paymentpage5.jpg" width="250"/>
 </p>
 
 Users can select their preferred payment method.
@@ -133,6 +138,7 @@ Users can select their preferred payment method.
 
 <p align="center">
   <img src="screenshots/accountpage.jpg" width="250"/>
+   <img src="screenshots/editprofilepage.jpg" width="250"/>
 </p>
 
 Users can view and edit their profile information.
