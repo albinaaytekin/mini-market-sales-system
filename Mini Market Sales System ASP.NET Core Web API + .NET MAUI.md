@@ -13,7 +13,7 @@ The project includes authentication, product management, shopping cart, order pr
 
 ---
 
-# Technologies
+## Technologies
 
 - ASP.NET Core Web API
 - .NET MAUI
@@ -24,17 +24,16 @@ The project includes authentication, product management, shopping cart, order pr
 
 ---
 
-# Features
+## Features
 
-- User authentication (JWT)
-- Product and category listing
-- Shopping cart management
-- Order creation and tracking
-- Address management
-- Profile management
-- Search functionality
-- Gift card support
-
+- 🔐 User authentication (JWT)
+- 📦 Product and category listing
+- 🛒 Shopping cart management
+- 📑 Order creation and tracking
+- 📍 Address management
+- 👤 Profile management
+- 🔎 Search functionality
+- 🎁 Gift card support
 ---
 
 # Application Screenshots
@@ -149,7 +148,7 @@ Users can view and edit their profile information.
 ## API Documentation (Swagger UI)
 
 <p align="center">
-  <img src="screenshots/swagger.png" width="900"/>
+  <img src="screenshots/swagger.png" width="850"/>
 </p>
 
 Swagger UI is used to explore and test the REST API endpoints of the system.
