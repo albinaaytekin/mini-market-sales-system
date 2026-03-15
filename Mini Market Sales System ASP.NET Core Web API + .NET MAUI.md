@@ -139,6 +139,14 @@ Users can view and edit their profile information.
 
 ---
 
+## API Documentation (Swagger UI)
+
+<p align="center">
+  <img src="screenshots/swagger.jpg" width="900"/>
+</p>
+
+Swagger UI is used to explore and test the REST API endpoints of the system.
+
 # API Architecture
 
 The backend is built with ASP.NET Core Web API and follows a layered architecture:
