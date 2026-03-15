@@ -1,3 +1,10 @@
+![.NET](https://img.shields.io/badge/.NET-8-blue)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET-Core-green)
+![MAUI](https://img.shields.io/badge/.NET-MAUI-purple)
+![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+![REST API](https://img.shields.io/badge/API-REST-black)
+
 # Mini Market Sales & Order Management System
 
 Full stack mobile market sales and order management system built with **ASP.NET Core Web API** and **.NET MAUI**.
