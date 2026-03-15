@@ -187,3 +187,6 @@ Users authenticate using **SMS verification (OTP)** and receive a **JWT token** 
 - Admin panel improvements
 - Product image optimization
 - Performance improvements
+
+- The source code is currently kept private.
+It can be shared upon request for review.
