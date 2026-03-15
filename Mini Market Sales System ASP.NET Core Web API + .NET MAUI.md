@@ -157,18 +157,18 @@ Swagger UI is used to explore and test the REST API endpoints of the system.
 
 The backend is built with ASP.NET Core Web API and follows a layered architecture:
 
-- Controllers
-- Services
-- DTOs
-- Entities
-- Entity Framework Core for database access
-
+- **Controllers** handle HTTP requests.
+- **Services** contain business logic.
+- **DTOs** are used for API data transfer.
+- **Entities** represent database models.
+- **Entity Framework Core** handles database operations.
 ---
 
 # Database
 
-SQL Server is used as the database.  
-Entity Framework Core is used as ORM with Code First approach.
+SQL Server is used as the database.
+
+The project uses **Entity Framework Core with Code First approach** for database migrations and schema management.
 
 ---
 
@@ -176,7 +176,7 @@ Entity Framework Core is used as ORM with Code First approach.
 
 JWT based authentication is implemented for secure API access.
 
-Users authenticate using phone number verification and receive a JWT token for authorized requests.
+Users authenticate using **SMS verification (OTP)** and receive a **JWT token** for authorized API requests.
 
 ---
 
@@ -186,3 +186,4 @@ Users authenticate using phone number verification and receive a JWT token for a
 - Real payment gateway integration
 - Admin panel improvements
 - Product image optimization
+- Performance improvements
