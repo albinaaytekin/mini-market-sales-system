@@ -1,6 +1,12 @@
-# mini-market-sales-system
-Full stack market sales and order management system built with ASP.NET Core Web API and .NET MAUI.
-## Technologies
+# Mini Market Sales & Order Management System
+
+Full stack mobile market sales and order management system built with **ASP.NET Core Web API** and **.NET MAUI**.
+
+The project includes authentication, product management, shopping cart, order processing, address management and user profile features.
+
+---
+
+# Technologies
 
 - ASP.NET Core Web API
 - .NET MAUI
@@ -9,20 +15,153 @@ Full stack market sales and order management system built with ASP.NET Core Web 
 - JWT Authentication
 - REST API
 
-## Features
+---
 
-- Product and category management
-- Mobile product listing
-- Add to cart functionality
-- Order creation
+# Features
+
+- User authentication (JWT)
+- Product and category listing
+- Shopping cart management
+- Order creation and tracking
 - Address management
-- User authentication
+- Profile management
+- Search functionality
+- Gift card support
 
-## Project Structure
+---
 
-MiniMarketSalesAPI → Backend REST API  
-MiniMarketSalesMaui → Mobile application
+# Application Screenshots
 
-## Screenshots
+## Home Page
 
-Coming soon...
+<p align="center">
+  <img src="screenshots/home.jpg" width="250"/>
+</p>
+
+The home page displays product categories and allows users to select a delivery address.
+
+---
+
+## Category Listing
+
+<p align="center">
+  <img src="screenshots/home2.jpg" width="250"/>
+</p>
+
+Users can browse different product categories.
+
+---
+
+## Login Required Popup
+
+<p align="center">
+  <img src="screenshots/loginorregisterpage.jpg" width="250"/>
+</p>
+
+Users must log in before selecting an address or placing an order.
+
+---
+
+## Search Page
+
+<p align="center">
+  <img src="screenshots/searchpage.jpg" width="250"/>
+</p>
+
+Users can search for products quickly using the search functionality.
+
+---
+
+## Cart Page
+
+<p align="center">
+  <img src="screenshots/cartpage.jpg" width="250"/>
+</p>
+
+Products can be added or removed from the cart.
+
+---
+
+## Address Management
+
+<p align="center">
+  <img src="screenshots/myadresses.jpg" width="250"/>
+</p>
+
+Users can manage their delivery addresses.
+
+---
+
+## Map Address Selection
+
+<p align="center">
+  <img src="screenshots/map.jpg" width="250"/>
+</p>
+
+Users can select their location using the map.
+
+---
+
+## Order Page
+
+<p align="center">
+  <img src="screenshots/orderpage.jpg" width="250"/>
+</p>
+
+Users can review and create orders.
+
+---
+
+## Payment Page
+
+<p align="center">
+  <img src="screenshots/paymentpage.jpg" width="250"/>
+</p>
+
+Users can select their preferred payment method.
+
+---
+
+## Profile Page
+
+<p align="center">
+  <img src="screenshots/accountpage.jpg" width="250"/>
+</p>
+
+Users can view and edit their profile information.
+
+---
+
+# API Architecture
+
+The backend is built with ASP.NET Core Web API and follows a layered architecture:
+
+- Controllers
+- Services
+- DTOs
+- Entities
+- Entity Framework Core for database access
+
+---
+
+# Database
+
+SQL Server is used as the database.  
+Entity Framework Core is used as ORM with Code First approach.
+
+---
+
+# Authentication
+
+JWT based authentication is implemented for secure API access.
+
+Users authenticate using phone number verification and receive a JWT token for authorized requests.
+
+---
+
+# Future Improvements
+
+- Push notifications
+- Real payment gateway integration
+- Admin panel improvements
+- Product image optimization
