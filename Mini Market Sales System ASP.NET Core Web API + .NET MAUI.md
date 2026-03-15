@@ -59,11 +59,12 @@ Users can browse different product categories.
 
 ---
 
-## Login Required Popup
+## Authentication (Login & Registration)
 
 <p align="center">
   <img src="screenshots/loginorregisterpage.jpg" width="250"/>
   <img src="screenshots/registerpage.jpg" width="250"/>
+  <img src="screenshots/otpverify.jpg" width="250"/>
 </p>
 
 Users must log in before selecting an address or placing an order.
