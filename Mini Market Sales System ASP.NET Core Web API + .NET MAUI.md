@@ -148,7 +148,7 @@ Users can view and edit their profile information.
 ## API Documentation (Swagger UI)
 
 <p align="center">
-  <img src="screenshots/swagger.png" width="850"/>
+  <img src="screenshots/swagger.jpeg" width="850"/>
 </p>
 
 Swagger UI is used to explore and test the REST API endpoints of the system.
